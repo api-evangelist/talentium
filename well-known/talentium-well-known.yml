@@ -1,0 +1,28 @@
+generated: '2026-07-21'
+method: searched
+source: live probes of /.well-known/* and common developer subdomains
+host: https://talentium.io
+notes: >-
+  Talentium publishes no /.well-known discovery surface and no OpenID/OAuth
+  authorization-server metadata. The site is a product web app; /api/ is
+  Disallowed in robots.txt and there is no public developer/API surface.
+  A /llms.txt IS published (captured verbatim in llms/talentium-llms.txt).
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+- path: /llms.txt
+  status: 200
+  file: ../llms/talentium-llms.txt
+subdomains_probed:
+- {host: developer.talentium.io, resolves: false}
+- {host: api.talentium.io, resolves: false}
+- {host: docs.talentium.io, resolves: false}
+- {host: status.talentium.io, resolves: false}

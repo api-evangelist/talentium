@@ -1,0 +1,59 @@
+# Talentium
+
+> Talentium is an end-to-end, AI-powered hiring platform that automates candidate sourcing, screening, and outreach — helping founders, in-house talent teams, and recruitment agencies fill roles faster.
+
+Talentium unifies the recruitment workflow in one place: AI sources candidates (including technical talent from channels like GitHub), screens and ranks them, and runs personalized outreach at scale. It is GDPR-compliant with enterprise-grade security and is available on the Google Cloud Marketplace. The site is published in English, Dutch (/nl/), and German (/de/).
+
+## Product & Solutions
+
+- [Talentium — End-to-End AI Hiring Platform](https://talentium.io/): Overview of the platform that automates sourcing, screening, and outreach.
+- [For Founders](https://talentium.io/solutions/founders/): Move from headcount plan to signed offer without a recruiter — AI sourcing and outreach for founders hiring their first roles.
+- [For In-House Talent Acquisition](https://talentium.io/solutions/talent-acquisition/): AI sourcing, screening, and pipeline tools so TA teams fill critical roles faster without adding recruiters.
+- [For Recruiters & Agencies](https://talentium.io/solutions/recruiters/): Source, screen, and present qualified candidates in a fraction of the time — built for agencies and independent recruiters.
+- [Pricing](https://talentium.io/pricing/): Transparent plans for founders, in-house teams, and agencies.
+- [Security & Compliance](https://talentium.io/security/): Enterprise-grade security with end-to-end encryption and full GDPR compliance.
+
+## Features
+
+- [AI Search](https://talentium.io/features/ai-search/): Describe the role in plain English; Talentium ranks candidates from public sources and your network with a reason for every match.
+- [Outreach](https://talentium.io/features/outreach/): AI-drafted first messages and follow-up sequences, sent from your own inbox, with reply tracking.
+- [Candidate Management](https://talentium.io/features/candidate-management/): A visual pipeline per role with auto-status, notes, and share-by-link for hiring managers.
+- [Career Page & Job Boards](https://talentium.io/features/career-page/): A branded careers page on your domain in minutes, with one-click distribution to top job boards.
+- [Network & Integrations](https://talentium.io/features/network-integrations/): Your living talent pool — saved candidates, applicants, CSV imports, and ATS history in one searchable view.
+
+## Company
+
+- [About Talentium](https://talentium.io/about/): Why Talentium is rebuilding hiring to remove busywork so teams can focus on judgment.
+- [Events & Webinars](https://talentium.io/events/): Meet the Talentium team at hiring conferences, webinars, and founder meetups.
+- [Journal](https://talentium.io/journal/): Case studies, customer stories, and hiring insights.
+
+## Journal & Case Studies
+
+- [How GroTech runs the entire recruitment workflow in one place](https://talentium.io/journal/how-grotech-runs-the-entire-recruitment-workflow-in-one-place/): Talentium sits at the center of GroTech's recruiting process. The first search happens inside Talentium, combining the internal network and external sourcing i…
+- [Talentium opens up its AI Hiring System to everyone](https://talentium.io/journal/talentium-opens-up-ai-hiring-system-to-everyone/): After a year of rapid growth working with enterprise and scale-up teams, Talentium is now opening up its platform to everyone through a self-serve experience…
+- [Talentium joins Forum för innanförskap — advancing a more inclusive future of hiring](https://talentium.io/journal/talentium-joins-forum-for-inclusion---advancing-a-more-inclusive-future-of-hiring/): Talentium joins Forum för innanförskap, enabling more inclusive hiring by shifting focus from manual work to skills, potential, and fair access to opportunity.
+- [Why ICW switched to in-house recruiting with Talentium](https://talentium.io/journal/why-icw-switched-to-in-house-recruiting-with-talentium/): ICW uses Talentium to identify highly qualified IT consultants faster, reducing manual sourcing and enabling more precise hiring for security-critical roles.
+- [Meet Jonathan Nyqwist, Talentium's Head of Sales](https://talentium.io/journal/meet-jonathan-nyqwist-talentiums-head-of-sales/): Jonathan Nyqwist, Talentium’s new Head of Sales, is already making a big impact by building a world-class GTM team and championing a more human approach to hir…
+- [How Pelagic Streamlined Their Candidate Tracking with Talentium](https://talentium.io/journal/how-pelagic-streamlined-their-candidate-tracking-with-talentium/): Pelagic streamlined their entire hiring process with Talentium, bringing structure, visibility, and collaboration into one platform to improve alignment, effic…
+- [How AIKOCorp uses Talentium to source Github profiles with 40% response rates](https://talentium.io/journal/how-aikocorp-uses-talentium-to-source-github-profiles-with-40-response-rates/): AIKO Corp, Japan’s leading AI-driven cybersecurity startup, uses Talentium to efficiently source and engage top technical talent on GitHub - achieving 40% resp…
+- [Talentium launches AI-powered recruitment solution on Google Cloud Marketplace](https://talentium.io/journal/talentium-launches-ai-powered-recruitment-solution-on-google-cloud-marketplace/): Talentium joins a select group of startups backed by Google Cloud, giving recruiters a smarter, AI-powered way to simplify hiring.
+- [How Renasens finds talent for roles that don’t exist](https://talentium.io/journal/how-renasens-finds-talent-for-roles-that-dont-exist/): To power their breakthrough textile recycling technology, Renasens needed to hire niche technical talent that’s hard to find. With Talentium, they’ve uncovered…
+- [Bias in recruitment: why the future still needs humans](https://talentium.io/journal/bias-in-recruitment-why-the-future-still-needs-humans/): Hiring has always carried bias, from gut instincts to early AI. Today’s generative AI can reduce it when used responsibly. At Talentium, we combine AI with hum…
+- [Talentium launches to fix what recruitment tech got wrong](https://talentium.io/journal/talentium-launches-to-fix-what-recruitment-tech-got-wrong/): Talentium, a next-generation AI-powered hiring platform, announces its official launch with a bold mission: to fix what recruitment tech got wrong.
+- [How Kleer instantly finds top java developers](https://talentium.io/journal/how-kleer-instantly-finds-top-java-developers/): With a growing need for skilled Java developers, Kleer needed a faster, more efficient way to find and connect with top candidates.
+- [How Brightmill finds the right consultants, faster than ever](https://talentium.io/journal/how-brightmill-finds-the-right-consultants-faster-than-ever/): Brightmill partnered with Talentium to cut hiring times, boost candidate quality, and reduce recruitment costs by 70%.
+- [How Zellify hired a world-class engineer in less than a week](https://talentium.io/journal/how-zellify-hired-a-world-class-engineer-in-less-than-a-week/): For fast-growing startups like Zellify, traditional hiring methods are a costly distraction.
+- [Klarna CEO backed 22-year-old founder instructs next-gen to “go for it”](https://talentium.io/journal/klarna-ceo-backed-22-year-old-founder-instructs-next-gen-to-go-for-it/): Talentium is looking to shake up the recruitment industry and has secured some star-studded backers.
+- [Recruiting is broken—and it’s our fault](https://talentium.io/journal/recruiting-is-broken-and-its-our-fault/): Recruiting was always meant to be about people, about potential.
+
+## Optional
+
+- [All pages & languages (sitemap.xml)](https://talentium.io/sitemap.xml): Complete machine-readable list of every page in all languages.
+- [Talentium in Dutch (Nederlands)](https://talentium.io/nl/): Dutch-language version of the site.
+- [Talentium in German (Deutsch)](https://talentium.io/de/): German-language version of the site.
+- [Terms and Conditions](https://talentium.io/legal/terms-and-conditions/)
+- [Privacy Policy](https://talentium.io/legal/privacy-policy/)
+- [Cookie Policy](https://talentium.io/legal/cookie-policy/)
+- [Master Service Agreement](https://talentium.io/legal/master-service-agreement/)
+- [Data Processing Agreement](https://talentium.io/legal/data-processing-agreement/)
+- [Joint Controller Agreement](https://talentium.io/legal/joint-controller-agreement/)
