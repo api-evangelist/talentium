@@ -1,0 +1,52 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://talentium.io/pricing/
+sources:
+- https://talentium.io/pricing/
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: per-seat
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+published: true
+note: Monthly/Yearly toggle (Yearly Save 20%) shown; only monthly per-user prices listed numerically.
+plan_count: 4
+currency: EUR
+plans:
+- name: Free
+  price_text: €0
+  price: 0
+  currency: EUR
+  period: month
+  unit: user
+  included_quota: AI search, AI matching, 15 saved candidates / month
+- name: Starter
+  price_text: €149 per user/month
+  price: 149
+  currency: EUR
+  period: month
+  unit: per user
+  included_quota: Everything in Free plus outreach, contact details, ATS/CSV export, 50 saved candidates
+    / month
+- name: Growth
+  price_text: €349 per user/month
+  price: 349
+  currency: EUR
+  period: month
+  unit: per user
+  included_quota: Everything in Starter plus two-way ATS sync, unlimited searches and candidates, 2 collaborators
+    included
+- name: Enterprise
+  price_text: Custom
+  period: none
+  included_quota: Everything in Growth plus SSO, API and custom integrations, CSM
+rate_limit_statements:
+- Saved candidates 15 / month
+- 50 / month
+- Unlimited searches and candidates
